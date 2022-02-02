@@ -6,3 +6,4 @@ class FeedConfig(AppConfig):
     name = 'feed'
 #Hello
 #Hi
+#fafafaf
